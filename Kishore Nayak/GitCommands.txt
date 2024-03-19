@@ -1,0 +1,20 @@
+Git Configuration
+	User Name
+		git config --global user.name "Kishorenayak123"
+	User Email
+		git config --global user.email "kishoregithub@outlook.com"
+
+Cloning the Repo from GitHub
+	git clone https://github.com/Kishorenayak123/LOC_group4
+
+To check the git status(First Change the directory)
+	git status 
+
+To add all files
+	git add .
+
+To commit
+	git commit -m "message name"
+
+To push to GitHub
+	git push

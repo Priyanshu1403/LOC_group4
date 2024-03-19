@@ -1,0 +1,8 @@
+The list of commands used are:-
+1.git config
+2.git clone
+3.git status
+4.git add
+5.git commit
+6.git push
+7.git pull
